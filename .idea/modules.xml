@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ALTA-QA-FAHRULROZI.iml" filepath="$PROJECT_DIR$/ALTA-QA-FAHRULROZI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Problem2/BALOK/BALOK.iml" filepath="$PROJECT_DIR$/OOP/Problem2/BALOK/BALOK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_PROGRAMMING/BASIC_PROGRAMMING.iml" filepath="$PROJECT_DIR$/BASIC_PROGRAMMING/BASIC_PROGRAMMING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Problem2/KUBUS/KUBUS.iml" filepath="$PROJECT_DIR$/OOP/Problem2/KUBUS/KUBUS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM1/PROBLEM1.iml" filepath="$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM1/PROBLEM1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM2/PROBLEM2.iml" filepath="$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM2/PROBLEM2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM3/PROBLEM3.iml" filepath="$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM3/PROBLEM3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM4/PROBLEM4.iml" filepath="$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM4/PROBLEM4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM5/PROBLEM5.iml" filepath="$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM5/PROBLEM5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM6/PROBLEM6.iml" filepath="$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM6/PROBLEM6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM7/PROBLEM7.iml" filepath="$PROJECT_DIR$/BASIC_PROGRAMMING/PROBLEM7/PROBLEM7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Problem1/Problem1.iml" filepath="$PROJECT_DIR$/OOP/Problem1/Problem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Problem2/Problem2.iml" filepath="$PROJECT_DIR$/OOP/Problem2/Problem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Problem3/Problem3.iml" filepath="$PROJECT_DIR$/OOP/Problem3/Problem3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Problem4/Problem4.iml" filepath="$PROJECT_DIR$/OOP/Problem4/Problem4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Problem2/TABUNG/TABUNG.iml" filepath="$PROJECT_DIR$/OOP/Problem2/TABUNG/TABUNG.iml" />
+    </modules>
+  </component>
+</project>
